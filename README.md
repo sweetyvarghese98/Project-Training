@@ -8,3 +8,5 @@ Project on PHARMACY MANAGEMENT.
 
   Documentation of the project:-
 PharmacyManagementProject.zip
+   Project Report:-
+PharmacyManagementProject_Report.pdf
